@@ -16,3 +16,25 @@ Energetic and enthusiastic. I am interesting in IT and everything in its Orbit. 
 - *BEM methodology*
 - *GIT*
 - *VS Code*
+
+##Code example
+```
+function factorial(n) {
+  const iter = (counter, acc) => {
+    return (counter === 1) ? acc : iter(counter - 1, acc * counter); 
+  };
+ return (n === 0) ? 1 : iter (n, 1);
+}
+```
+##Experience
+
+
+##Education
+2020 - now [Hexlet](https://ru.hexlet.io/programs/frontend)
+**Online courses front-end proffesion**
+2002 - 2008 [MSTU](http://www.mstu.edu.ru/)
+**Engineer electronics technician**
+
+##Languages
+1. Russian - **Native**
+1. English - **A2**
