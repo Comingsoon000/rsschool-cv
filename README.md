@@ -1,1 +1,1 @@
-https://github.com/Comingsoon000/rsschool-cv.git
+https://Comingsoon000.github.io/rsschool-cv/cv
