@@ -1,0 +1,165 @@
+html {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  width: 900px;
+  height: 100%;
+  margin: 0 auto;
+
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 1;
+  color: #333;
+
+  background: rgb(175, 175, 180);
+}
+
+/*
+ * Header components section
+ */
+
+header {
+  flex: 0 0 auto;
+  height: 120px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+header img {
+  display: inline-block;
+  height: 120px;
+  padding-left: 50px;
+  object-fit: contain;
+}
+
+section {
+  padding-right: 50px;
+  padding-left: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+header section {
+  display: inline-block;
+  width: 600px;
+  height: 120px;
+
+  padding-right: 0;
+  padding-left: 0;
+  margin: 0;
+
+  vertical-align: top;
+}
+
+h2 {
+  font-size: 20px;
+  text-align: left;
+}
+
+header section h2 {
+  width: 260px;
+
+  padding-left: 40px;
+  margin: 0 0 20px auto;
+
+  font-size: 22px;
+  line-height: 30px;
+}
+
+header ul {
+  width: 260px;
+  height: 70px;
+
+  margin-left: auto;
+
+  text-align: left;
+}
+
+/*
+ * Main components section
+ */
+
+main {
+  flex: 1 0 auto;
+  width: 900px;
+}
+
+h1 {
+  padding: 15px 50px;
+
+  font-size: 30px;
+  font-weight: bold;
+
+  text-align: center;
+
+  border-top: 2px solid #e3e3e3;
+  border-bottom: 2px solid #e3e3e3;
+}
+
+.profile {
+  line-height: 1.5;
+}
+
+section ul li {
+  margin-bottom: 5px;
+}
+
+details {
+  padding: 5px;
+  margin: -5px 18px 10px;
+}
+
+summary {
+  padding: 2px;
+  margin-right: 0;
+  margin-left: 50px;
+
+  text-align: left;
+}
+
+section summary {
+  margin-left: 0;
+}
+
+details[open] summary {
+  color: red;
+}
+
+/*
+ * Footer components section
+ */
+
+footer {
+  flex: 0 0 auto;
+  margin-top: 20px;
+  margin-bottom: 5px;
+
+  font-size: 15px;
+  text-align: center;
+
+  border-top: 2px solid #e3e3e3;
+}
+
+table {
+  width: 100%;
+
+  border-bottom: 2px solid #e3e3e3;
+}
+
+table td {
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+footer img {
+  width: 200px;
+  height: 50px;
+  object-fit: contain;
+}
+
+footer p {
+  font-size: 10px;
+}
