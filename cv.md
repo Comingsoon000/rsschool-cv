@@ -21,13 +21,14 @@ Energetic and enthusiastic. I am interesting in IT and everything in its Orbit. 
 
 
 ## Experience
-https://github.com/Comingsoon000/English-for-kids
-https://github.com/Comingsoon000/Match-game
-https://github.com/Comingsoon000/Async-race
+https://github.com/Comingsoon000/English-for-kids  
+https://github.com/Comingsoon000/Match-game  
+https://github.com/Comingsoon000/Async-race  
 
 
 ## Education
-2021 - new [RSSchool](https://rs.school/)
+2021 - new [RSSchool](https://rs.school/)  
+**Online courses front-end proffesion**  
 2020 - now [Hexlet](https://ru.hexlet.io/programs/frontend)  
 **Online courses front-end proffesion**  
 2002 - 2008 [MSTU](http://www.mstu.edu.ru/)  
